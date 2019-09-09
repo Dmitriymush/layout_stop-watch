@@ -44,6 +44,7 @@ p {
   transform-origin: bottom center;
   animation-iteration-count: infinite;
   animation-timing-function: linear;
+  animation-delay: 1s;
 }
 
 .hour_arrow {
